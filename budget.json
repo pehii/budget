@@ -1,0 +1,24 @@
+{
+    "items": [
+        {"description": "Income", "amount": 3000, "type": "income", "completed": false},
+        {"description": "Other Income", "amount": 500, "type": "income", "completed": false},
+        {"description": "Rent", "amount": 1236, "type": "expense", "dueDate": "1st", "completed": false},
+        {"description": "Water", "amount": 25, "type": "expense", "dueDate": "3rd", "completed": false},
+        {"description": "Spotify", "amount": 17, "type": "expense", "dueDate": "4th", "completed": false},
+        {"description": "ChatGPT", "amount": 20, "type": "expense", "dueDate": "4th", "completed": false},
+        {"description": "iCloud", "amount": 6, "type": "expense", "dueDate": "10th", "completed": false},
+        {"description": "Netflix", "amount": 16, "type": "expense", "dueDate": "15th", "completed": false},
+        {"description": "Kenny Pill", "amount": 34, "type": "expense", "dueDate": "15th", "completed": false},
+        {"description": "Xbox", "amount": 17, "type": "expense", "dueDate": "17th", "completed": false},
+        {"description": "Gym", "amount": 50, "type": "expense", "dueDate": "17th", "completed": false},
+        {"description": "Car Insurance", "amount": 239, "type": "expense", "dueDate": "21st", "completed": false},
+        {"description": "Phone Bill", "amount": 135, "type": "expense", "dueDate": "23rd", "completed": false},
+        {"description": "Electric", "amount": 64, "type": "expense", "dueDate": "25th", "completed": false},
+        {"description": "Internet", "amount": 55, "type": "expense", "dueDate": "24th", "completed": false},
+        {"description": "Insurance", "amount": 68, "type": "expense", "dueDate": "Monthly", "completed": false},
+        {"description": "Fuel", "amount": 150, "type": "expense", "dueDate": "Monthly", "completed": false},
+        {"description": "Groceries", "amount": 350, "type": "expense", "dueDate": "Monthly", "completed": false},
+        {"description": "Savings", "amount": 0, "type": "expense", "dueDate": "Monthly", "completed": false},
+        {"description": "Entertainment", "amount": 400, "type": "expense", "dueDate": "Monthly", "completed": false}
+      ]
+    }
