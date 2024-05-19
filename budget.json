@@ -1,7 +1,7 @@
 {
     "items": [
-        {"description": "Income", "amount": 3000, "type": "income", "completed": false},
-        {"description": "Other Income", "amount": 500, "type": "income", "completed": false},
+        {"description": "Income", "amount": 4800, "type": "income", "completed": false},
+        {"description": "Other Income", "amount": 0, "type": "income", "completed": false},
         {"description": "Rent", "amount": 1236, "type": "expense", "dueDate": "1st", "completed": false},
         {"description": "Water", "amount": 25, "type": "expense", "dueDate": "3rd", "completed": false},
         {"description": "Spotify", "amount": 17, "type": "expense", "dueDate": "4th", "completed": false},
