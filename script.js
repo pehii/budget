@@ -19,6 +19,7 @@ function initializeBudget(data) {
         budgetItem.innerHTML = `
             <input type="checkbox" ${item.completed ? "checked" : ""} data-amount="${item.amount}" ${item.type === "income" ? 'data-type="income"' : 'data-type="expense"'}>
             <span>${item.description}</span>
+            <span>{item.description} ({item.dueDate})</span>
             <span>${item.amount >= 0 ? `$${item.amount.toFixed(2)}` : `-$${Math.abs(item.amount).toFixed(2)}`}</span>
         `;
 
